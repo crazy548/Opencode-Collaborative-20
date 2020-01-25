@@ -1,4 +1,4 @@
-
+﻿
 data = [	{	
 	"name": "Prathamesh Kakde",
         "imageurl": "https://avatars3.githubusercontent.com/u/58396450?s=460&v=4",
@@ -1313,6 +1313,17 @@ data = [	{
         "twitter": "",
         "referral": "GeekHaven"
     }
+{
+	"name": "devender kumar",
+        "imageurl": "",
+        "about": "belive in yourself",
+        "college": "IIIT Allahabad",
+        "facebook": "",
+        "github": "https://github.com/crazy548",
+        "twitter": "",
+        "referral": "GeekHaven"
+}
+
 ]
 
 
